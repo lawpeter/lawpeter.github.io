@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Typing TypeScript is hard"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-01
+date: 2025-09-01
 published: True
 labels:
   - Software Engineering
