@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Petering out of High School and into College"
 # All dates must be YYYY-MM-DD format!
-date: 2024-08-31
+date: 2025-08-31
 published: True
 labels:
   - Software Engineering
