@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cdplayer/cd-player.png
+image: img/cdplayer/cdplayerbox.png
 title: "Custom CD Player"
 date: 2025
 published: true
@@ -11,6 +11,10 @@ labels:
   - Audiophile
 summary: "A custom CD Player I built as proof of concept."
 ---
+
+<img width="300px" 
+     class="rounded float-start pe-4" 
+     src="../img/cdplayer/cd-player.png" >
 
 About two years back I had talked with my friend about wanting to build a CD player shaped like the Minecraft Jukebox. We toyed with the idea and looked online briefly for parts before the idea trailed off. In walks this summer, when I get a burst of energy after finishing a separate side project. I finally decide to just start working. With the help of ChatGPT, I figured out what I would need to buy for a minimum viable product. I went ahead and ordered the parts on Amazon, and waited patiently for them to arrive.
 
