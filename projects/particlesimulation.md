@@ -12,9 +12,7 @@ labels:
 summary: "A particle simulation I developed as a personal project."
 ---
 
-<img width="200px" 
-     class="rounded float-start pe-4" 
-     src="../img/particlesim/particle-simulation.png" >
+<img class="img-fluid" src="../img/particlesim/fullparticlesim.png">
 
 This project is a Smoothed Particle Hydrodynamics simulation that runs in real-time and allows for interaction while modelling liquids and gases. It was inspired by [Sebastian Lague's](https://www.youtube.com/@SebastianLague) video where he develops a similar simulation in C# and HLSL. I wanted to challenge myself by programming this simulation in C++ to practice the language which I had learned the semester prior.
 
