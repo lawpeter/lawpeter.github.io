@@ -32,7 +32,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science & Mechanical Engineering (expected Spring, 2018)",
+      "area": "Computer Science & Mechanical Engineering (expected Spring, 2028)",
       "studyType": "B.S.",
       "startDate": "2024-08-26",
       "endDate": "Present",
@@ -64,16 +64,6 @@
       "startDate": "2025-08-25",
       "endDate": "Present",
       "summary": "Developer for embedded software",
-      "highlights": [
-      ]
-    },
-    {
-      "organization": "UHM RoSE",
-      "website": "",
-      "position": "Communication",
-      "startDate": "2025-08-29",
-      "endDate": "Present",
-      "summary": "",
       "highlights": [
       ]
     }
