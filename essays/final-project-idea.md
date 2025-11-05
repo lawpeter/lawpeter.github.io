@@ -64,7 +64,7 @@ Build on a Next.js (ICS 314 starter) web app and add communication/rideshare fea
 
 ---
 
-## 
+## Mockup Concepts
 
 - **Home:** homepage with navigation options to all other webpages on the site.
 - **Profile:** page where you can upload and update information about yourself.
@@ -73,7 +73,7 @@ Build on a Next.js (ICS 314 starter) web app and add communication/rideshare fea
 
 ---
 
-## 
+## Beyond the Basics (Future Enhancements)
 
 Potential features to extend the app:
 -  Starred rating system for events/drivers
