@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/roomie-match.png
-title: "Spotify Database"
+title: "Manoa Roomie Match"
 date: 2025
 published: true
 labels:
